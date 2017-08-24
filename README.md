@@ -29,7 +29,7 @@ from a web browser login to the page at
 open a terminal session and run:
 
 ```
-openvpn --config ~/Downloads/client.ovpn
+sudo openvpn --config ~/Downloads/client.ovpn
 ```
 
 
